@@ -4,6 +4,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 16.0.31005.135
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Docs", "Docs", "{93A43CC4-D85B-4E83-BBAF-F5F0CEBC91CC}"
+	ProjectSection(SolutionItems) = preProject
+		Docs\Uml_Markex8use_Case.vpp = Docs\Uml_Markex8use_Case.vpp
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Src", "Src", "{4DA625F1-2F00-422B-9F30-E8070BE02BC0}"
 EndProject
